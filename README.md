@@ -40,5 +40,13 @@ GNU GENERAL PUBLIC LICENSE
  of this license document, but changing it is not allowed.
 
 
-## Referencias
-https://www.w3schools.com/php/php_mysql_intro.asp
+Todos os direitos reservados aos autores:
+- Gabrielle Maria Alves Franco Silva
+- Hanna Larissa dos Santos Penha
+- Cauê Vinicius Vieira Cardoso
+- Camily Barros de Oliveira
+- Carlos Eduardo da Silva Caetano
+- Jhullia Yandra Cerdeira da Silva.
+```
+TDSI 2021
+```
