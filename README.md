@@ -5,11 +5,10 @@ Esse projeto é de desenvolvimento web de caráter acadêmico, com a estrutura g
 
 # Versão do Desenvolvimento
 
-- PHP 8.1.10
-- Apache 2.4.54 (Unix) 
-- XAMPP 8.1.10
-- MYSQL 8.0.31
-- Build System Linux Ubuntu -- Pop_OS! </n>
+- Apache 2
+- PHP 5.5.9+
+- MYSQL 5.5+
+
 
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
